@@ -3,6 +3,8 @@ Inter-VLAN routing is used to establish communication between several VLANs. The
 
 ## 01 Router-on-a-stick (ROAS)
 - Add a router
+  <img width="1920" height="977" alt="Screenshot (504)" src="https://github.com/user-attachments/assets/c07e145a-75c1-4049-84ab-8f68ea388167" />
+
 - Then, trunk the port in the relevant switch
 - Next, turn on the port in the router
 - Next, create the sub-interfaces that you want in the router
